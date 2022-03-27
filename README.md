@@ -1,6 +1,5 @@
 # conversor-moedas-app
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Aplicativo desenvolvido em React Native durante o curso Fabrica de Aplicativos para fins de estudo. Realiza a conversão de diversas moedas (USD, EUR, etc) para Real (R$) utilizando a API [AwesomeAPI](https://docs.awesomeapi.com.br/).
 
