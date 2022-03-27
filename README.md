@@ -3,7 +3,11 @@
 
 Aplicativo desenvolvido em React Native durante o curso Fabrica de Aplicativos para fins de estudo. Realiza a conversão de diversas moedas (USD, EUR, etc) para Real (R$) utilizando a API [AwesomeAPI](https://docs.awesomeapi.com.br/).
 
-<GIf>
+
+<p align="center">
+    <img width = "460" height= "300" src = "src/assets/to_readme/vidma_recorder_gif_27032022_120620.gif">
+</p>
+
 
 ## Tecnologias
 - [React Native](https://reactnative.dev/)
