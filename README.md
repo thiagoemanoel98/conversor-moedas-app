@@ -5,7 +5,7 @@ Aplicativo desenvolvido em React Native durante o curso Fabrica de Aplicativos p
 
 
 <p align="center">
-    <img width = "460" height= "300" src = "src/assets/to_readme/vidma_recorder_gif_27032022_120620.gif">
+    <img width = "150" height= "300" src = "src/assets/to_readme/vidma_recorder_gif_27032022_120620.gif">
 </p>
 
 
