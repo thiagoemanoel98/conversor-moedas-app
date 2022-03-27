@@ -68,7 +68,7 @@ export default function App() {
 
         <View style = {styles.areaMoeda}>
           <Text style = {styles.titulo}>Selecione sua Moeda</Text>
-          <Picker moedas = {moedas} onChange = {(moeda) => {setMoedaSelecionada(moeda); setValorConvertido(0)}} />
+          <Picker moedas = {moedas} onChange = {(moeda) => {setMoedaSelecionada(moeda); setValorConvertido(0) }} />
         </View>
   
         <View style = {styles.areaValor}>
