@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react';
 import { StyleSheet, Text, View, TextInput, TouchableOpacity, ActivityIndicator, Keyboard } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
-
 import Picker from './src/components/Picker';
 import api from './src/services/api';
+import 'dotenv/config';
 
 
 export default function App() {

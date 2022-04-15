@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://economia.awesomeapi.com.br/json/'
+    baseURL: process.env.BASE_URL_API
 });
 
 export default api;
